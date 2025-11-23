@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Vyom 👋<br><br>I'm a first-year CSE (AI/ML) student who likes building practical projects and understanding how systems work end-to-end.  <br>I like to work across software and hardware including Arduino and esp boards<br><br>- 🔍 Currently learning: DSA, AI/ML fundamentals, real-time systems  <br>- 🛠️ Languages I use: Java, C, C++  <br>- 🚀 Interests: Automation, hardware–software integration, and applied machine learning  <br>- 📂 On GitHub: Learning-based projects, small utilities, and experiments with electronics + code  <br><br>Always improving and adding more meaningful projects as I learn.<br>
+Hi, I'm Vyom 👋<br><br>I'm a first-year CSE (AI/ML) student who likes building practical projects and understanding how systems work end-to-end.  <br>I like to work across software and hardware <br><br>- 🔍 Currently learning: DSA, AI/ML fundamentals, real-time systems  <br>- 🛠️ Languages I use: Java, C, C++  <br>- 🚀 Interests: Automation, hardware–software integration, and applied machine learning  <br>- 📂 On GitHub: Learning-based projects, small utilities, and experiments   <br><br>Always improving and adding more meaningful projects as I learn.<br>
 
 
 ## 🌐 Socials:
