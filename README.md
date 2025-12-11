@@ -7,7 +7,7 @@ I like to work across software and hardware
 <br>  
 
 - 🔍 Currently learning: DSA, AI/ML fundamentals, Android Development  
-- 🛠️ Languages I use: Java, C, C++  
+- 🛠️ Languages I use: Java, C, C++, Kotlin, Python 
 - 🚀 Interests: Automation, hardware–software integration, and applied machine learning  
 - 📂 On GitHub: Learning-based projects, small utilities, and experiments    
 
