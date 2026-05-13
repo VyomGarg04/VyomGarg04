@@ -1,19 +1,17 @@
 # 💫 About Me:
-Hi, I'm Vyom 👋  
-<br>  
-I'm a first-year CSE (AI/ML) student who likes building practical projects and understanding how systems work end-to-end.   
-<br>  
-I like to work across software and hardware  
-<br>  
 
-- 🔍 Currently learning: DSA, AI/ML fundamentals, Android Development  
-- 🛠️ Languages I use: Java, C, C++, Kotlin, Python 
-- 🚀 Interests: Automation, hardware–software integration, and applied machine learning  
-- 📂 On GitHub: Learning-based projects, small utilities, and experiments    
+Hi, I'm Vyom 👋 <br>
+I'm a first-year B.Tech CSE student specializing in AI & ML, interested in building practical, system-oriented projects that combine software, hardware, and real-world problem solving. I enjoy understanding how things work internally rather than only using high-level tools. <br><br>
+
+* 🔍 Currently learning: Data Structures & Algorithms, Backend Development, AI/ML fundamentals, and Android Development
+* 🛠️ Tech Stack: Java, C, C++, Kotlin, Python, FastAPI, MongoDB, Git/GitHub
+* ⚙️ Interests: Backend systems, automation, robotics, hardware–software integration, APIs, and applied machine learning
+* 📂 On GitHub: Learning-focused projects, backend experiments, automation tools, and practical mini-projects
+* 🎯 Goal: To build strong fundamentals and create projects that are actually useful, scalable, and technically solid
 
 <br>  
-Always improving and adding more meaningful projects as I learn.  
-<br>  
+Currently focused on improving problem-solving skills, building real projects, and learning development beyond just tutorials.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vyomgarg04/) 
